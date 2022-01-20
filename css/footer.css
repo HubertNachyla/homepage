@@ -1,0 +1,10 @@
+.footer {
+    width: auto;
+    background-color: rgb(144, 132, 175);
+
+}
+
+.footer__paragraph {
+    text-align: center;
+    margin: 1px;
+}
