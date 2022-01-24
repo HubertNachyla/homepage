@@ -1,0 +1,16 @@
+.article__mainHeader {
+    text-align: center;
+    background-color: #9d98aa;
+    max-width: 1000px;
+    padding: 10px;
+    text-shadow: 1px 2px 5px rgb(85, 83, 83);
+    font-size: 35px;
+}
+
+.article__text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.article__header {
+    text-shadow: -3px -2px 5px grey;
+}

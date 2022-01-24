@@ -1,0 +1,10 @@
+.aside {
+    background-color: rgba(196, 192, 192, 0.829);
+    width: 150px;
+    border: black;
+    border-style: solid;
+    border-radius: 10%;
+    float: left;
+    padding: 5px;
+    box-shadow: inset 40px 24px 62px -6px rgb(218, 159, 203);
+}

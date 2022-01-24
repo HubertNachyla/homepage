@@ -1,0 +1,32 @@
+.table__tableCell {
+    border-collapse: collapse;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.tableRow:hover {
+    background-color: whitesmoke;
+}
+
+.table__headerRow:hover {
+    background-color: rgb(229, 230, 197);
+}
+
+.table {
+    margin: auto;
+    font-family: cursive;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 20px;
+}
+
+.table__tableHeader {
+    background-color: burlywood;
+    align-self: center;
+}
+
+.table__caption {
+    caption-side: top;
+    text-align: left;
+    margin-top: 10px;
+}

@@ -7,10 +7,7 @@ button.addEventListener("click", () => {
 
     if (background.classList.contains("dark")) {
         themeName.innerText = ("jasne");
-} else {
-    themeName.innerText = ("ciemne");
-
-}
-
-
+    } else {
+        themeName.innerText = ("ciemne");
+    }
 });
