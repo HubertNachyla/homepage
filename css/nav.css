@@ -1,7 +1,8 @@
 .nav {
     width: auto;
     background-color: rgb(161, 161, 161);
-    padding-left: 50px;    
+    padding-left: 50px;
+    padding-top: 1px;
 }
 
 .nav ul li p {
@@ -11,6 +12,7 @@
 
 .pageNav {
     list-style-type: none;
+    padding: 10px;
 }
 
 .nav__link {
