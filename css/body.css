@@ -2,8 +2,8 @@
     margin: auto;
     position: relative;
     max-width: 1000px;
-    padding: 20px solid #9d98aa;
-    background-color: #e6e6e6;
+    padding: 20px solid #3a3741;
+    background-color: #3a3838;
 }
 
 .dark {
@@ -11,7 +11,7 @@
     position: relative;
     max-width: 1000px;
     padding: 20px solid #383738;
-    background-color: #646464;
+    background-color: #424242;
 }
 
 .body__line {
